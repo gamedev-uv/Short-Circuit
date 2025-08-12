@@ -38,6 +38,13 @@ A basic 1-to-2 line decoder built with logic ICs, showcasing simple digital deco
 
 ![](.README/de-1-2-decoder.png)
 
+### 5. DE-2x4-DECODER
+A basic 2-to-4 line decoder built with logic ICs, showcasing simple digital decoding functionality.
+
+:link: Check it out [here](https://www.tinkercad.com/things/lHm2o2tF0Sb-de-2x4-decoder?sharecode=54N5dXCUwdaNgnwRlvArcxrxoHhp5_s-v0Sf0Ey2Brg)
+
+![](.README/de-2-4-decoder.png)
+
 ---
 
 ## Other links :link: 
