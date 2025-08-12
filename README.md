@@ -6,7 +6,8 @@ Short Circuit is a collection of AutoCAD Tinkercad circuit designs created as pa
 ---
 
 > [!NOTE]
-New to Tinkercad? Start here: https://www.tinkercad.com/join
+New to Tinkercad? Start here : https://www.tinkercad.com/join
+You can simulate the circuits by using visiting the links. You can press on Tinker if you want to edit them.
 
 ## Circuits
 ### 1. DE-AND-GATE
