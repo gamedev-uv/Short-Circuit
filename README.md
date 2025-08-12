@@ -36,7 +36,7 @@ A basic 1-to-2 line decoder built with logic ICs, showcasing simple digital deco
 
 :link: Check it out [here](https://www.tinkercad.com/things/0hQQ4QUdCDh-de-1x2-decoder?sharecode=4oyfs64rABptuub27uHsKDJUxRW_kxgbLLSFmNG6xbo)
 
-![](.README/de-1x2-decoder.png)
+![](.README/de-1-2-decoder.png)
 
 ---
 
