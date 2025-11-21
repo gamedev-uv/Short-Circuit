@@ -23,7 +23,7 @@ Truth Table
 
 :link: [Circuit Link](https://www.tinkercad.com/things/lMhdsFxjJ3i-de-and-gate?sharecode=Ctde8SG5hnuPZKSWxEjlwRR4zDA0VlAItpBrn_j3aA8)
 
-![](.README/de-and-gate.png)
+![](.README/and-gate.png)
 
 ### 2. OR Gate
 
@@ -40,7 +40,7 @@ Truth Table
 
 :link: [Circuit Link](https://www.tinkercad.com/things/4mCLiMjrFG0-de-or-gate?sharecode=_F_BoAkUHw8MoZetXgRxyMlWKxbw2iYydsQmgEEFR6w)
 
-![](.README/de-or-gate.png)
+![](.README/or-gate.png)
 
 ### 3. XOR Gate
 
@@ -57,7 +57,7 @@ Truth Table
 
 :link: [Circuit Link](https://www.tinkercad.com/things/28rgFeqQ8ms-de-xor-gate?sharecode=vl7U6SoqcamW8oVzSZbXmGZU1Vdh74HEby9cFOHVJyU)
 
-![](.README/de-xor-gate.png)
+![](.README/xor-gate.png)
 
 ### 4. 1x2 Decoder
 
@@ -72,7 +72,7 @@ Truth Table
 
 :link: [Circuit Link](https://www.tinkercad.com/things/0hQQ4QUdCDh-de-1x2-decoder?sharecode=4oyfs64rABptuub27uHsKDJUxRW_kxgbLLSFmNG6xbo)
 
-![](.README/de-1-2-decoder.png)
+![](.README/1x2-decoder.png)
 
 ### 5. 2x4 Decoder
 
@@ -89,7 +89,7 @@ Truth Table
 
 :link: [Circuit Link](https://www.tinkercad.com/things/lHm2o2tF0Sb-de-2x4-decoder?sharecode=54N5dXCUwdaNgnwRlvArcxrxoHhp5_s-v0Sf0Ey2Brg)
 
-![](.README/de-2-4-decoder.png)
+![](.README/2x4-decoder.png)
 
 
 ### 6. Half Adder
@@ -107,7 +107,27 @@ Truth Table
 
 :link: [Circuit Link](https://www.tinkercad.com/things/djO0JRCZlFQ-half-adder?sharecode=nHbua6GCca8FO22P36khPcKoQLthDx1t50c0SLJ5gEs)
 
+![](.README/half-adder.png)
+
+### 7. Half Subtractor
+
+A half subtractor performs single bit binary subtraction. It takes two inputs, A and B, and produces two outputs. The Difference output follows XOR logic and the Borrow output becomes 1 when B is greater than A.
+
+Truth Table
+
+| A | B | Difference | Borrow |
+| - | - | ---------- | ------ |
+| 0 | 0 | 0          | 0      |
+| 0 | 1 | 1          | 1      |
+| 1 | 0 | 1          | 0      |
+| 1 | 1 | 0          | 0      |
+
+:link: [Circuit Link](https://www.tinkercad.com/things/3dj0VnWmkK5-half-subtractor?sharecode=Tq4QWLXg5bcxUouQwKgEhqTfX8j8GKGteh3kMFybNq8)
+
+![](.README/half-subtractor.png)
+
+If you want I can help add a Full Adder or Full Subtractor later too.
+
 ## Other links
 
-All my circuits can be found here
-[https://www.tinkercad.com/users/d74BBzmoxcw?type=circuits](https://www.tinkercad.com/users/d74BBzmoxcw?type=circuits)
+All my circuits can be found [here](https://www.tinkercad.com/users/d74BBzmoxcw?type=circuits).
